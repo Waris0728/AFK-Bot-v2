@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "AFK Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MAusafAli-2gzJ.aternos.me",
-    "port": 43518,
+    "ip": "mortalrealm33.mcsh.io",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
